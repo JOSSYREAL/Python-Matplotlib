@@ -1,2 +1,2 @@
 # Python-Matplotlib
-illustrating the data visualization projects done with matplolib
+this repository contains the data visualization projects done with matplolib in python environment
